@@ -1,0 +1,13 @@
+{
+    "name": "icartsh-marketplace",
+    "owner": {
+        "name": "ICARTSH"
+    },
+    "plugins": [
+        {
+            "name": "icartsh-plugin",
+            "source": "./icartsh-plugin",
+            "description": "ICARTSH Plugin"
+        }
+    ]
+}

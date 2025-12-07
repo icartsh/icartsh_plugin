@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node modules (if any)
+node_modules/
+
+# Local Claude settings
+.claude/settings.local.json
+
+# Temporary files
+*.tmp
+*.temp
+*.log
